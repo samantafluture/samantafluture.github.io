@@ -86,9 +86,7 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <li> Objetivo de fazer arte no browser </li>
 </ul>
 
-![]({{site.baseurl}}/http://40.media.tumblr.com/531ff6275caa295afe4936aad1a139ac/tumblr_nep5hvzqqY1qzbgdlo1_540.jpg)
-![]({{site.baseurl}}/http://36.media.tumblr.com/db0b814f6bbabd179b7b9a93cfe0853c/tumblr_nep5hvzqqY1qzbgdlo2_400.jpg)
-![]({{site.baseurl}}/http://41.media.tumblr.com/b359f2d58f2d65f37cfd2ccd664686f2/tumblr_nep5hvzqqY1qzbgdlo3_400.jpg)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/sputnik1.jpg)
 
 **Links:**
 [http://samantafluture.tumblr.com/post/102053347687/sputnik-project-web-app-experiment-constru%C3%ADdo-com](#)
@@ -108,7 +106,7 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 
 (senha: visualismo)
 
-![]({{site.baseurl}}/https://photos-3.dropbox.com/t/2/AAB5_64B9YiWA9BfuNGVNGiLyKkMYF-tipDyo10C1raRpA/12/21239664/jpeg/32x32/1/_/1/2/Foto%2031-07-15%2010%2000%2031.jpg/EOX79g8YxI8BIAcoBw/QZh6Uq4IVoYXEH_jq9G9xPZltbdHDLqUjPXteD-00CQ?size=1024x768&size_mode=3)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/visualismo1.jpg)
 
 **Links:**
 [https://www.dropbox.com/s/6z2y4hzipfl4mx7/Foto%2031-07-15%2010%2000%2031.jpg?dl=0](#)
