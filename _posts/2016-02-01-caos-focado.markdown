@@ -138,24 +138,6 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 
 # Sugestões de atividades makers
 
-## Arte e tecnologia
-
-<ul>
-<li> Processing (criação de arte generativa, envolvendo estudos de padrões, conversão de parâmetros e formas geométricas). </li>
-<li> Uso do Processing no browser a partir de biblioteca em Javascript (p5.js), funcionando como introdução ao Javascript e ao “creative coding”. </li>
-<li> Relação Processing + Arduino: Uso de sensores para ativar gráficos criados em atividades anteriores, funcionando como base do pensamento para criar instalações interativas. Uso de sensores pode conter também câmeras do computador, Leap Motion e até o Kinect. Além de intenções visuais e interativas, é possível também aprender a usar o Processing para visualização de dados de dispositivos criados com Arduino. </li>
-<li> Sonoridades tecnológicas: construção de controladores e sintatizadores MIDI. Introdução ao conceito de MIDI, uso de programas open source como PureData para interagir com sensores, controlar padrões musicais e criar sonoridades. </li>
-
-<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/7GMFYLi0G5/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Alissa Osumi (@alissaosumi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-01T17:40:19+00:00">Sep 1, 2015 at 10:40am PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-
-<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/7LQgtDi0D7/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Alissa Osumi (@alissaosumi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-03T16:55:12+00:00">Sep 3, 2015 at 9:55am PDT</time></p></div></blockquote>
-<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-
-<li> Construção de dispositivos de LEDs. Aprender sobre matrizes e cubos, criar animações específicas com códigos e até generativas a partir de controles. </li>
-</ul>
-
-<p>
 ## Makers e crianças
 <ul>
 <li> Introdução à eletrônica a partir de circuitos eletrônicos de papel. Desenvolvimento de desenhos com grafite, papel alumínio, tinta condutiva e outros materiais escolares (por exemplo, um clip!) para criar circuitos que acendam LEDs, botões e sensores capacitivos de forma simples e divertida. </li>
@@ -165,9 +147,8 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <li> Introdução ao Arduino na criação de dispositivos que possam interagir com o entorno da escola e até repensar problemas do dia a dia das crianças. Por exemplo: horta com sensores que mostram quando ela precisa ser regada, luzes de segurança para bibicletas, sensores para contar cestas ou gols, etc. </li>
 <li> Uso de programação visual (Scratch e MIT App Inventor) para criação de: dispositivos mais complexos com Arduino, games e aplicativos Android.  </li>
 </ul>
-</p>
 
-<p>
+
 ## Fabricação digital
 
 <ul>
@@ -175,4 +156,20 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <a href="http://www.instructables.com/id/Generative-3d-Printing-with-Processing/">Exemplo de projeto</a>
 <li> Uso de impressão 3D e outras formas de fabricação digital para criar peças específicas para projetos makers (como cases de proteção ou formas de agregar dispositivos em determinados locais) e também criação de itens que possam ser utilizados por todos na escola (como porta lápis, caixas para materiais e brinquedos, etc). </li>
 </ul>
-</p>
+
+
+## Arte e tecnologia
+
+<ul>
+<li> Processing (criação de arte generativa, envolvendo estudos de padrões, conversão de parâmetros e formas geométricas). </li>
+<li> Uso do Processing no browser a partir de biblioteca em Javascript (p5.js), funcionando como introdução ao Javascript e ao “creative coding”. </li>
+<li> Relação Processing + Arduino: Uso de sensores para ativar gráficos criados em atividades anteriores, funcionando como base do pensamento para criar instalações interativas. Uso de sensores pode conter também câmeras do computador, Leap Motion e até o Kinect. Além de intenções visuais e interativas, é possível também aprender a usar o Processing para visualização de dados de dispositivos criados com Arduino. </li>
+<li> Construção de dispositivos de LEDs. Aprender sobre matrizes e cubos, criar animações específicas com códigos e até generativas a partir de controles. </li>
+<li> Sonoridades tecnológicas: construção de controladores e sintatizadores MIDI. Introdução ao conceito de MIDI, uso de programas open source como PureData para interagir com sensores, controlar padrões musicais e criar sonoridades. </li>
+</ul>
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/7GMFYLi0G5/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Alissa Osumi (@alissaosumi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-01T17:40:19+00:00">Sep 1, 2015 at 10:40am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+<blockquote class="instagram-media" data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/7LQgtDi0D7/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A video posted by Alissa Osumi (@alissaosumi)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-09-03T16:55:12+00:00">Sep 3, 2015 at 9:55am PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
