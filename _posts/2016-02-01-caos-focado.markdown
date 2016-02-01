@@ -103,19 +103,11 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 </ul>
 
 <iframe src="https://player.vimeo.com/video/137082401" width="500" height="339" frameborder="0"> </iframe>
-
 (senha: visualismo)
 
 ![]({{site.baseurl}}samantafluture.github.io/assets/images/visualismo1.jpg)
-
-**Links:**
-[https://www.dropbox.com/s/6z2y4hzipfl4mx7/Foto%2031-07-15%2010%2000%2031.jpg?dl=0](#)
-[https://www.dropbox.com/s/qcljk2731qbjetg/Foto%2031-07-15%2009%2055%2018.jpg?dl=0](#)
-[https://www.dropbox.com/s/kegtze204ymfr55/Foto%2031-07-15%2008%2054%2003.jpg?dl=0](#)
-[ https://www.dropbox.com/s/ox62v4dele3j5kj/11823128_10153151118775852_2285163762439508575_o.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/8bpo4eia5t4vkm0/10708591_10153350883395852_7752246161023800963_o.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/0gp3baiwn2lpy4m/12239178_10153350882335852_8464697266921884159_o.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/5h0bsupwmczyny4/12194654_10153350884685852_6823406989383836711_o.jpg?dl=0 ](#)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/visualismo2.jpg)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/visualismo3.jpg)
 
 ----
 
@@ -127,12 +119,9 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <li> Controles criam animações generativas em tempo real </li>
 </ul>
 
-**Links:**
-[ https://www.dropbox.com/s/f1qjffjdubqxaas/dispositivo_final04.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/0app767g6aiy39f/dispositivo_final01.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/uvbyqr94bkzomoo/dispositivo_final09.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/nab1n0hqpkqpx9z/montagem-final02.jpg?dl=0 ](#)
-[ https://www.dropbox.com/s/n1m5nlyx277959o/prot%C3%B3tipo02.jpeg?dl=0 ](#)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/leds1.jpg)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/leds2.jpg)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/leds3.jpg)
 
 # Sugestões de atividades makers
 
