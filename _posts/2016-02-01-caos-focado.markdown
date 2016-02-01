@@ -70,7 +70,7 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <li>Apresentado como protótipo. Atualmente busca formas de levantar financiamento para pagar servidor </li>
 </ul>
 
-![]({{site.baseurl}}/http://40.media.tumblr.com/d75fd49a97be1ff61a148a190af0baa6/tumblr_mwirvtKYCx1qzbgdlo1_540.png)
+![]({{site.baseurl}}/assets/images/passageiro1.png)
 
 **Links:**
 [http://samantafluture.tumblr.com/post/67473854211/passageiro-app-aplicativo-para-iphone-que-visa](#)
