@@ -129,8 +129,7 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 <p>
 <ul>
 <li> Introdução à eletrônica a partir de circuitos eletrônicos de papel. Desenvolvimento de desenhos com grafite, papel alumínio, tinta condutiva e outros materiais escolares (por exemplo, um clip!) para criar circuitos que acendam LEDs, botões e sensores capacitivos de forma simples e divertida. </li>
-![]({{site.baseurl}}/https://s-media-cache-ak0.pinimg.com/originals/b4/97/eb/b497ebd1229e26bbd547b44e9e006d33.jpg)
-[ https://s-media-cache-ak0.pinimg.com/originals/b4/97/eb/b497ebd1229e26bbd547b44e9e006d33.jpg ](Exemplo de projeto)
+![]({{site.baseurl}}samantafluture.github.io/assets/images/tinta1.jpg)
 <li> Criação de toys e camisetas interativas a partir de circuitos eletrônicos com materiais conduvitos como linha condutiva, tecido condutivo, Arduino Lilypad, etc. Uso de materiais simples e intuitivos como feltro. O Arduino Lilypad pode até servir de introdução ao universo Arduino por ser mais intuitivo de se trabalhar, mais claro de como o circuito em si funciona. </li>
 <li> Introdução ao Arduino na criação de dispositivos que possam interagir com o entorno da escola e até repensar problemas do dia a dia das crianças. Por exemplo: horta com sensores que mostram quando ela precisa ser regada, luzes de segurança para bibicletas, sensores para contar cestas ou gols, etc. </li>
 <li> Uso de programação visual (Scratch e MIT App Inventor) para criação de: dispositivos mais complexos com Arduino, games e aplicativos Android.  </li>
