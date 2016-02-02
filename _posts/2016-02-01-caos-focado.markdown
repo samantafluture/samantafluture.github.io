@@ -1,7 +1,7 @@
 ---
-title:  “Processo: CAOS Focado”
+title:  “CAOS Focado”
 date:   2016-02-01 10:18:00
-description: About me
+description: Processo Caos Focado
 published: true
 ---
 ## Pesquisa de mestrado
