@@ -15,7 +15,7 @@ I design 8bit, gifs & generative art.</br>
 <p>
 <h3>MY DAY JOB IS TO CREATE EXPERIENCES</h3></br>
 <b>Eu, fone:</b> hacked book with Arduino and Processing to generate poems.</br>
-<b>Pega Monstro:</b> mobile game built with Unity3D and Vuforia for TimoKids App.</br>
+<b>Pega Monstro:</b> mobile game built with Unity3D and Vuforia.</br>
 <b>Sputnik Project:</b> web app built with HTML5, WebGL, Three.js and GSV.</br>
 <b>Passageiro:</b> mobile app built with OpenFrameworks.</br>
 <b>OcupaCéu:</b> mobile app built with Processing and Metaio.</br>
