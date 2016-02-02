@@ -2,14 +2,8 @@
 title:  “Processo: CAOS Focado”
 date:   2016-02-01 10:18:00
 description: About me
+published: true
 ---
-
-# Quem sou eu?
-
-Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura digital e tecnologia, em suas diversas frentes. Sou formada em Publicidade com Mestrado em Tecnologia. Mas, acima de tudo, sou maker e apaixonada pela troca de conhecimento e cultura open source.
-
-# Alguns dos projetos que me orgulho!
-
 ## Pesquisa de mestrado
 
 **“Eu, fone”**, um livro “ciborgue” que existe entre a máquina e o papel.
@@ -26,6 +20,8 @@ Samanta, 27 anos, de São Caetano do Sul/SP. Trabalho há 7 anos com cultura dig
 
 **Links:**
 [http://slides.com/samantafluture/eufone#/15 ](#)
+
+----
 
 ## Relação cidade/tecnologia
 
