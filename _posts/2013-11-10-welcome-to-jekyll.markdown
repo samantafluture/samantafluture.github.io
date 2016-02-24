@@ -22,12 +22,12 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
-{% gallery galleryname %}
-subfolder/myfirstimage.jpg:: A caption!
-subfolder/myseconfimage.png:: Another caption
-subfolder/mythirdimage.jpg
-subfolder/myfourthimage.png
-{% endgallery %}
+# {% gallery galleryname %}
+# subfolder/myfirstimage.jpg:: A caption!
+# subfolder/myseconfimage.png:: Another caption
+# subfolder/mythirdimage.jpg
+# subfolder/myfourthimage.png
+# {% endgallery %}
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
