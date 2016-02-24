@@ -3,7 +3,10 @@ title:  CAOS Focado
 date:   2016-02-01 10:18:00
 description: Projetos e Referências
 published: true
+category: articles
+tags: arduino
 ---
+
 ## Pesquisa de mestrado
 
 **“Eu, fone”**, um livro “ciborgue” que existe entre a máquina e o papel.
@@ -82,7 +85,7 @@ published: true
 <li> Objetivo de fazer arte no browser </li>
 </ul>
 
-![]({{site.baseurl}}samantafluture.github.io/assets/images/sputnik1.jpg)
+{% responsive_image path: samantafluture.github.io/assets/images/sputnik1.jpg %}
 
 **Links:**
 [http://samantafluture.tumblr.com/post/102053347687/sputnik-project-web-app-experiment-constru%C3%ADdo-com](#)

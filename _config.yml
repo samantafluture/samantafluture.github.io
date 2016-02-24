@@ -1,26 +1,108 @@
-name: Samanta Fluture
-description: Creative Coding
-meta_description: "Samanta Fluture, Creative Coding"
+name: fluture.me
+description: where i can showcase my projects and write articles about creative coding.
+meta_description: "fluture.me, samanta fluture, creative coding"
 
+# Filtering Content
 aboutPage: true
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
 
+# Plugins
+# whitelist: []
+# gems:      []
+
+# Conversion
 markdown: redcarpet
 highlighter: pygments
+lsi: false
+excerpt_separator: "<!--more-->"
+incremental: false
 
-paginate: 20
+# Serving
 baseurl: /
 domain_name: 'http://samantafluture.github.io/'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
+# source:      _source
+# destination: _deploy
+
+# Add ons
+google_analytics: 'UA-74188647-1'
+disqus: true
 disqus_shortname: 'samantafluture'
+authorTwitter:  'samantafluture'
 
 # Details for the RSS feed generator
 url:            'http://samantafluture.github.io/'
 author:         'Samanta Fluture'
-authorTwitter:  'samantafluture'
 
+# Outputting
 permalink:       /:year/:title/
+timezone:      null
+paginate: 10
 
+# Gems
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-mentions
+  - jemoji
+  
+# Config Portfolio Plugin  
+portfolio_dir: "_data/projects"
+related_project_keys: ["category", "technology"]
+related_min_common: 0.7
+
+# Config Metions Gem  
+jekyll-mentions: https://twitter.com
+
+# Config Portfolio Plugin  
+gallerytag:
+    dir: assets/images/galleries
+    url: /assets/images/galleries
+    thumb_width: 150
+    thumb_height: 150
+    columns: 4
+
+# Confi Responsive Img Plugin
+responsive_image:
+  # [Required]
+  # Path to the image template.
+  template: _includes/responsive-image.html
+
+  # [Optional, Default: 85]
+  # Quality to use when resizing images.
+  default_quality: 90
+
+  # [Optional, Default: []]
+  # An array of resize configuration objects. Each object must contain at least
+  # a `width` value.
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+    - width: 1400
+      quality: 90
+
+  # [Optional, Default: assets]
+  # The base directory where assets are stored. This is used to determine the
+  # `dirname` value in `output_path_format` below.
+  base_path: assets
+
+  # [Optional, Default: assets/resized/%{filename}-%{width}x%{height}.%{extension}]
+  # The template used when generating filenames for resized images. Must be a
+  # relative path.
+  #
+  # Parameters available are:
+  #   %{dirname}     Directory of the file relative to `base_path` (assets/sub/dir/some-file.jpg => sub/dir)
+  #   %{basename}    Basename of the file (assets/some-file.jpg => some-file.jpg)
+  #   %{filename}    Basename without the extension (assets/some-file.jpg => some-file)
+  #   %{extension}   Extension of the file (assets/some-file.jpg => jpg)
+  #   %{width}       Width of the resized image
+  #   %{height}      Height of the resized image
+  #
+  output_path_format: assets/resized/%{width}/%{basename}
+  
 defaults:
     -
         scope:
@@ -36,7 +118,13 @@ defaults:
             layout: post
     -
         scope:
-            path: ""
+            path: "" # empty string for all files
             type: drafts
         values:
             layout: post
+    -
+        scope:
+            path: "/projects/"
+            type: 
+        values:
+            layout: project

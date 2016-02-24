@@ -1,0 +1,9 @@
+# FTP Glynn
+ftp_host: 'localhost'
+ftp_dir: 'Applications/MAMP/htdocs/jekyll'       # Applications/MAMP/tmp/mysql/mysql.sock
+ftp_passive: false
+# optional
+ftp_port: 8889                  # default 21
+ftp_username: 'root'            # 'your_user' default read from stdin
+ftp_password: 'root'            # 'your_ftp_pass' default read from stdin
+ftp_secure: false               # default false

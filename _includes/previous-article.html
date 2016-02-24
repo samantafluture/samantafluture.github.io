@@ -1,0 +1,7 @@
+ <div class="contents constrained">
+    {% if page.previous %}
+      <p class="next-arrow">&larr; Previous Post:</p>
+      <h3 class="title"><a href="{{ page.previous.url }}" class="next-article-link">{{ page.previous.title }}</a></h3>
+      {% if page.previous.subhead %}<p class="subhead">{{ page.previous.subhead }}</p>{% endif %}
+    {% endif %}
+    </div>

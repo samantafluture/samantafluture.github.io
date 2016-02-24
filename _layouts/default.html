@@ -13,12 +13,8 @@
 </head>
 <body>
 
-  {% include navigation.html %}
-
-  {% if page.profile %}
-      {% include profile.html %}
-  {% endif %}
-
+{% include navigation.html %}
+    
   <section id="wrapper" class="{% if page.profile %}home{% endif %}">
     {{ content }}
   </section>
@@ -37,6 +33,9 @@
     ga('create', '{{ site.google_analytics }}', 'auto');
     ga('send', 'pageview');
   </script>
+
+{% include footer.html %}  
+    
 </body>
 </html>
 

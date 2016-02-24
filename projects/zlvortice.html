@@ -1,0 +1,25 @@
+---
+title: ZL Vórtice
+permalink: projects/zlvortice/
+layout: default
+profile: false
+---
+
+<h2>{{ page.title }} <span>{{ page.category }}</span></h2>
+
+<p>{{ page.description }}</p>
+
+<ul>
+    {% for technology in page.technology %}
+    <li><a>{{ technology }}</a></li>
+    {% endfor %}
+</ul>
+
+{% if page.related_projects.size > 0 %}
+<h3>Related Projects</h3>
+{% for project in page.related_projects limit:3 %}
+<a href="/{{ project.dir }} ">
+    <img src="{{ project.image.url }}" alt="{{ project.image.alt }}" title="{{ project.image.title }}">
+</a>
+{% endfor %}
+{% endif %}

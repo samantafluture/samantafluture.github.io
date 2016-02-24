@@ -2,7 +2,9 @@
 title:  "Welcome to Jekyll!"
 date:   2013-11-10 10:18:00
 description: Thriller Comedy Horror
-published: false
+published: true
+category: tutorial
+tags: jekyll
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
@@ -19,6 +21,13 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+{% gallery galleryname %}
+subfolder/myfirstimage.jpg:: A caption!
+subfolder/myseconfimage.png:: Another caption
+subfolder/mythirdimage.jpg
+subfolder/myfourthimage.png
+{% endgallery %}
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com

@@ -1,0 +1,7 @@
+ <div class="contents constrained">
+    {% if page.next %}
+      <p class="next-arrow">Next Post: &rarr;</p>
+      <h3 class="title"><a href="{{ page.next.url }}" class="next-article-link">{{ page.next.title }}</a></h3>
+      {% if page.next.subhead %}<p class="subhead">{{ page.next.subhead }}</p>{% endif %}
+    {% endif %}
+    </div>
